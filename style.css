@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  margin: auto;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.welcome {
+  margin-bottom: 20px;
+  margin-top: 175px;
+  font-weight: bold;
+  color:rgb(98, 7, 139)
+}
+
+p {
+  text-align: center;
+  font-size: 17px;
+    }
+
+#start {
+      background-color: rgb(98, 7, 139);
+      border: none;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      text-decoration:fuchsia;
+      display: inline-block;
+      font-size: 10px;
+      margin: 4px 2px;
+      border-radius: 10px;
+    }
+
+  #start:hover {
+      background-color:fuchsia;
+  }
+
+#main {
+  margin-bottom: 20px;
+  font-size: 100px;
+  width: 100%;
+  height: 25px;
+}
+
+#read {
+  margin: auto;
+  padding: 10px;
+  width: 100%;
+  height: 25px;
+}
+
+#countdown {
+  padding-top: 0px;
+  margin-right: 0px;
+  display: inline-block;
+  margin-left: 25px;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.title {
+  text-align: left;
+  font-size: 20px;
+}
+
+.alternative {
+  background-color: rgb(98, 7, 139);
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    text-align: center; */
+    text-decoration:fuchsia;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    border-radius: 10px;
+    /* transition: all 0.3s ease-out;  */
+  }
+
+  .alternative:hover {
+    background-color:fuchsia;
+}
